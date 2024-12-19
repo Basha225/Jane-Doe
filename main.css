@@ -1,0 +1,9 @@
+.sub-main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+.image-container2 ,.image-container3 ,.image-container4 ,.image-container5 ,.image-container6{
+    width: 60%;
+}

@@ -1,0 +1,33 @@
+@media screen and (min-width : 992px) {
+
+    .image-container-text1>h5{
+        display:none;
+    }
+    
+    img{
+        min-height: 50%;
+    }
+   
+    
+}
+
+/* @media screen and (min-width : 600px) {
+    .anchordiv2{
+        display: none;
+    }
+
+} */
+
+
+@media screen and (max-width : 993px) {
+    .image-container-text1>h1,h3{
+        display: none;
+    }
+    
+}
+/* 
+@media screen and (max-width : 600px) {
+    .anchordiv{
+        display: none;
+    }
+} */
